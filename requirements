@@ -1,3 +1,5 @@
 Create a login screen
 The Login username should be minimun of 6 characters
 The password should contain minimun of 8 characters with atleast one upper and one alphanumeric.
+--- user will submit the details ----
+
